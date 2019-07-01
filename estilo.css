@@ -1,0 +1,39 @@
+p{
+    color: whitesmoke;
+    font-family: monospace;
+}
+
+h1 {
+    font-family: monospace;
+    color: whitesmoke;
+}
+
+h2 {
+    font-family: monospace;
+    color: whitesmoke;
+    
+}
+
+h3 {
+    font-family: monospace;
+    color:whitesmoke;
+    
+}
+
+body{
+    background-color: black;
+    width: 1250px;
+    height: 90 0px;
+    border: solid 1px;
+    border-radius: 20px;
+    border-color: whitesmoke;
+    font-family: monospace;
+    color:whitesmoke;
+}
+
+.projetos {
+    font-family: monospace;
+    color:whitesmoke;
+}
+
+
